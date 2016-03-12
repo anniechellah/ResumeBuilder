@@ -20,9 +20,12 @@
 <title>Annie's Resume</title>
 </head>
 <body>
+<div id="page-header">
+  <h2>Why she shouldn't be missed from your employee list?</h2>
+</div>
 <div id="boxes">
-	<a id="square1" class="box lightbox" href="viewSummary.jsp"></a>
-	<a id="square2" class="box" href=""></a>
+	<a id="square1" class="box lightbox" href="viewSummary.jsp?page=summary"><span id="sum-text">Summary</span></a>
+	<a id="square2" class="box lightbox"  href="viewSummary.jsp?page=career"><span id="career-highlights">Career Highlights</span></a>
 	<a id="square3" class="box" href=""></a>
 	<a id="square4" class="box" href=""></a>
 	<a id="square5" class="box" href=""></a>

@@ -72,3 +72,37 @@
 		z-index:1002;
 		overflow: auto;
 	}
+	
+	#sum-text{
+	  padding-left: 65px;
+	    padding-top: 300px;
+	    position: absolute;
+	    font-style: normal;
+	    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	    font-size: 25px;
+	}
+	
+	#page-header{
+	
+	        width: 809px;
+    		height: 80px;
+    		background-color: beige;
+    		margin-bottom: 2px;
+    		/* position: absolute; */
+   			 padding-left: 430px;
+   			 padding-top: 12px;
+   			 font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+	
+	#page-header h2{
+	              padding-left: 0px;
+	}
+	        
+	
+	#career-highlights{
+	     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	    font-style: normal;
+	    font-size: 25px;
+	    position: absolute;
+	    padding: 100px 0 0 245px;
+	}
